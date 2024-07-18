@@ -1,4 +1,4 @@
-### Hi there! I'm Wojtek Choroś 👋
+# Hi there! I'm Wojtek Choroś 👋
 Welcome to my GitHub profile!
 
 <img align="center" src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
@@ -10,11 +10,11 @@ Welcome to my GitHub profile!
 - Poznań 🐐, Poland 🇵🇱
 
 
-### :fire: GitHub Stats
+#### :fire: GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
-# LinkedIn:
+#### LinkedIn:
 <a href="https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn">
 </a>
