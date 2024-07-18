@@ -1,9 +1,9 @@
 # Hi there! I'm Wojtek 👋
 Welcome to my GitHub profile!
 
-<div style="display:flex; width: 100%"; align-items: center; justify-content: center; height: 250px;>
+<p align="center">
     <img src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
-</div>
+</p>
 
 <br>
 
