@@ -1,5 +1,5 @@
-# Hi there! I'm Wojtek Choroś 👋
-## Welcome to my GitHub profile!
+# Hi there! I'm Wojtek 👋
+Welcome to my GitHub profile!
 
 <img align="center" src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
 
