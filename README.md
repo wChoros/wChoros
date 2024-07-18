@@ -16,9 +16,10 @@ Welcome to my GitHub profile!
 ### 🔗 Links
 
 - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/)
+- [![Email](https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png)](mailto:wojciech.choros@dynamico.ai)
 
 
 ### 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:wojciech.choros@dynamico.ai).
+[email].
 
