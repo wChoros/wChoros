@@ -1,8 +1,7 @@
-# Hi there! I'm Wojtek 👋
-Welcome to my GitHub profile!
+<img src="github-header-image.png">
 
 <p align="center">
-    <img src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
+    <img src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="350">
 </p>
 
 <br>
