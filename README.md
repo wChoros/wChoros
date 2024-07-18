@@ -5,12 +5,14 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
-- Junior AI Apps Python Developer @ Dynamico.ai
+- Junior AI Apps Python Developer @ <a href="dynamico.ai">Dynamico AI</a>
+- Student in <a href="https://www.zsk.poznan.pl/">ZSK Poznań</a>
+- Poznań 🐐, Poland 🇵🇱
 
 
 ### :fire: GitHub Stats
 
-![wChoros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wChoros&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros)](https://git.io/awesome-stats-card)
 
 ### 🔗 Links
 
