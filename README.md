@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
-- Junior AI Apps Python Developer @ <a href="dynamico.ai">Dynamico AI</a>
-- Student in <a href="https://www.zsk.poznan.pl/">ZSK Poznań</a>
+- Junior AI Apps Python Developer @ <a href="dynamico.ai">Dynamico AI</a> 🤖
+- Student in <a href="https://www.zsk.poznan.pl/">ZSK Poznań</a> 🤓
 - Poznań 🐐, Poland 🇵🇱
 
 
