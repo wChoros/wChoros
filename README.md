@@ -1,7 +1,11 @@
 # Hi there! I'm Wojtek 👋
 Welcome to my GitHub profile!
 
-<img align="center" src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
+<div style="display:flex; width: 100%"; align-items: center; justify-content: center; height: 250px;>
+    <img src="https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif" width="300">
+</div>
+
+<br>
 
 ### 🚀 About Me
 
@@ -10,6 +14,7 @@ Welcome to my GitHub profile!
 - Poznań 🐐, Poland 🇵🇱
 - Hyped about LLM's Generative AI and it's capabilities 👨‍💻
 
+<br>
 
 ### GitHub Stats 🔥
 
