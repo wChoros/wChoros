@@ -8,15 +8,15 @@ Welcome to my GitHub profile!
 - Junior AI Apps Python Developer @ <a href="https://github.com/dynamico-ai" target="_blank">Dynamico AI</a> 🤖
 - Student in <a target="_blank" href="https://www.zsk.poznan.pl/">ZSK Poznań</a> 🤓
 - Poznań 🐐, Poland 🇵🇱
-- Hyped about LLM's Generative AI and it's capabilities
+- Hyped about LLM's Generative AI and it's capabilities 👨‍💻
 
 
-### :fire: GitHub Stats
+### GitHub Stats 🔥
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 
-### Links :
+### Links 🔗:
 <a href="https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn">
 </a>
