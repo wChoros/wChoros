@@ -19,6 +19,6 @@ Welcome to my GitHub profile!
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn">
 </a>
 
-# Email: 
-<a href="mailto:wojciech.choros@dynamico.ai">wojciech.choros@dynamico.ai</a>📬
+# Email: 📬 
+<a href="mailto:wojciech.choros@dynamico.ai">wojciech.choros@dynamico.ai</a> 
 
