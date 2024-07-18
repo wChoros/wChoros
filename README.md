@@ -15,12 +15,13 @@ Welcome to my GitHub profile!
 
 ### 🔗 Links
 
-- <a href="https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/">
+<a href="https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn">
-  </a>
-- <a href="mailto:wojciech.choros@dynamico.ai">
+</a>
+
+<a href="mailto:wojciech.choros@dynamico.ai">
   <img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" width="50" alt="Email">
-  </a>
+</a>
 
 
 ### 📫 Contact
