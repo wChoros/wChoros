@@ -17,7 +17,7 @@
 
 ### GitHub Stats 🔥
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros?cardType=github&theme=graywhite&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <br>
 
