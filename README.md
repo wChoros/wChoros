@@ -12,20 +12,13 @@ Welcome to my GitHub profile!
 
 ### :fire: GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wChoros?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
-### 🔗 Links
-
+# LinkedIn:
 <a href="https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn">
 </a>
 
-<a href="mailto:wojciech.choros@dynamico.ai">
-  <img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" width="50" alt="Email">
-</a>
-
-
-### 📫 Contact
-
-[email].
+# Email: 
+<a href="mailto:wojciech.choros@dynamico.ai">wojciech.choros@dynamico.ai</a>📬
 
