@@ -1,37 +1,24 @@
-# 👋 Hi there! I'm wChoros
+#### Hi there! I'm Wojtek Choroś
 
 Welcome to my GitHub profile!
 
-![Welcome GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Welcome GIF](https://media1.tenor.com/m/-JMlvM0F--YAAAAd/racoon-blanket.gif)
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🌱 I’m currently learning advanced AI techniques.
-- 💼 I'm a software developer at Dynamics AI.
-- 💻 I work as a Junior AI app developer at Dynamico.ai.
-- 🏸 I love playing badminton in my free time.
+- Junior AI Apps Python Developer @ Dynamico.ai
 
-## 🛠 Skills
 
-- Programming Languages: Python, JavaScript, C++
-- Frameworks: TensorFlow, React, Node.js
-- Tools: Git, Docker, Kubernetes
-- Databases: MySQL, MongoDB
-
-## 📈 GitHub Stats
+### :fire: GitHub Stats
 
 ![wChoros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wChoros&show_icons=true&theme=radical)
 
-## 🔗 Links
+### 🔗 Links
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/wojciech-choro%C5%9B-234861307/)
 
-## 🖼️ Fun GIFs
 
-![Coding GIF](https://media.giphy.com/media/l1J9urWR8U8E3jyRs/giphy.gif)
-![AI GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+### 📫 Contact
 
-## 📫 Contact
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:your-email@example.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:wojciech.choros@dynamico.ai).
 
