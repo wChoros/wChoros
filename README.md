@@ -8,7 +8,6 @@
 
 ### 🚀 About Me
 
-- Junior AI Apps Python Developer @ <a href="https://github.com/dynamico-ai" target="_blank">Dynamico AI</a> 🤖
 - Student in <a target="_blank" href="https://www.zsk.poznan.pl/">ZSK Poznań</a> 🤓
 - Poznań 🐐, Poland 🇵🇱
 - Hyped about LLM's Generative AI and it's capabilities 👨‍💻
@@ -33,4 +32,4 @@
 <br>
 
 ### Email📬
-<a href="mailto:wojciech.choros@dynamico.ai">wojciech.choros@dynamico.ai</a> 
+<a href="mailto:wojciech.choros@dynamico.ai">wojtek.choros06@gmail.com</a> 
