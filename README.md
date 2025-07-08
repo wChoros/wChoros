@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🚀 About Me<br>    Student in ZSK Poznań 🤓<br>    Poznań 🐐, Poland 🇵🇱<br>    Hyped about LLM's Generative AI and it's capabilities 👨‍💻<br>    Into webdev, mainly backend 🌐
+🚀 About Me<br>    Student in ZSK Poznań 🤓<br>    Poznań 🐐, Poland 🇵🇱<br> Developer @ [Aproco.io](https://github.com/Aproco-io)  Hyped about LLM's Generative AI and it's capabilities 👨‍💻<br>    Into webdev, mainly backend 🌐
 
 
 ## 🌐 Socials:
